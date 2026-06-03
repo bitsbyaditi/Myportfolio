@@ -15,7 +15,7 @@ Contact Information
 
     LinkedIn: https://www.linkedin.com/in/aditi-jadhav098/
 
-    GitHub: https://github.com/bitsbyaditi
+    GitHub:  https://github.com/bitsbyaditi
 
 
 Education
